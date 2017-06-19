@@ -2,7 +2,7 @@
 ## R Program created by Alexander Conti on 18/jun/2017
 ##
 ## This program defines a function that calculates the inverse of a matrix, but do it
-## in a smart way. In other words, it the calculation for this matrix has already been
+## in a smart way. In other words, if the calculation for this matrix has already been
 ## done, the previous calculation is returned, otherwise the inversion is calculated for
 ## the first time and returned as the result of the function
 ##
